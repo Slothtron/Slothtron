@@ -7,4 +7,4 @@
 - Understand: Golang / PHP
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lolioy&theme=dracula)](https://github.com/Lolioy)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Slothtron&theme=dracula)](https://github.com/Lolioy)
